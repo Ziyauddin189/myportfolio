@@ -1,6 +1,7 @@
 class ProjectUtils {
   static const List<String> banners = [
     "assets/projects/web.png",
+    "assets/projects/gomoon.jpg",
 
   ];
 
